@@ -37,7 +37,11 @@
     "@gravity-ui/icons": "^2.11.0",
     "@gravity-ui/navigation": "^2.27.0",
     "@gravity-ui/uikit": "^6.32.0",
-    "bem-cn-lite": "^4.1.0"
+    "@tanstack/react-query": "^5.66.9",
+    "axios": "^1.7.9",
+    "bem-cn-lite": "^4.1.0",
+    "react-router-dom": "^6.29.0",
+    "zustand": "^5.0.3"
   },
   "devDependencies": {
     "@gravity-ui/browserslist-config": "^4.1.0",
