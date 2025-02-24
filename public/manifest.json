@@ -1,0 +1,6 @@
+{
+  "short_name": "Admin panel",
+  "name": "pish-ochpochmak",
+  "start_url": ".",
+  "display": "standalone"
+}
